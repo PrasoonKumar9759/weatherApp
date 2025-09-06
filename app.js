@@ -1,5 +1,5 @@
 let city_name="Bulandshahr";
-let API_key='9553f088b9f7b794edb40b84ff60e6ac';
+let API_key='#';
 
 
 
